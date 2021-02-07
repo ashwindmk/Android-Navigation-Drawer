@@ -1,10 +1,10 @@
 package com.example.ashwin.navigationdrawer;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class PrivacyPolicyActivity extends AppCompatActivity {
+import androidx.appcompat.app.AppCompatActivity;
 
+public class PrivacyPolicyActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
